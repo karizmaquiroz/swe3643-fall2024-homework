@@ -1,2 +1,4 @@
-# swe3643-fall2024-homework
- Homework SQA class fall 2024
+# Fall 2024 SWE 3643 Testing and QA Homework
+## Karizma Quiroz
+
+- Homework 1: Create a git repo and a simple unit test.
