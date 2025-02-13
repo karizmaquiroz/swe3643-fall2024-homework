@@ -8,7 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd2c396-5dcc-4c82-b9d1-df012f40f81a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework1/Calculator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2-Redo/Homework.2/.idea/.idea.Homework.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2-Redo/Homework.2/.idea/.idea.Homework.2/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2-Redo/Homework.2/.idea/.idea.Homework.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2-Redo/Homework.2/Homework2.Calculator/DescriptiveStatistics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2-Redo/Homework.2/Homework2.Calculator/Interpretation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2-Redo/Homework.2/Homework2.Console/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2/Homework2/CalculatorLogic/DescriptiveStatistics.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2/Homework2/CalculatorLogic/Interpretation.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework-2/Homework2/Tests/InterpretationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Homework1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Homework1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,27 +27,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mGvD1yQVbA3UozqXrKlHnW1o3n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Project.Homework1">
+}</component>
+  <component name="RunManager">
     <configuration name="Homework1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -67,6 +76,16 @@
       <option name="presentableId" value="Default" />
       <updated>1726715605802</updated>
       <workItem from="1726715606970" duration="2321000" />
+      <workItem from="1729028101291" duration="78000" />
+      <workItem from="1729028661486" duration="99000" />
+      <workItem from="1729029711816" duration="123000" />
+      <workItem from="1730328111445" duration="13000" />
+      <workItem from="1730328260811" duration="46000" />
+      <workItem from="1730764244440" duration="252000" />
+      <workItem from="1730764533486" duration="115000" />
+      <workItem from="1730954512988" duration="37000" />
+      <workItem from="1732843479812" duration="10000" />
+      <workItem from="1733197357447" duration="18000" />
     </task>
     <servers />
   </component>

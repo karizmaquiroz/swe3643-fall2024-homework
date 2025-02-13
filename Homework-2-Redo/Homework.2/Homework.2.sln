@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2.Console", "Homework2.Console\Homework2.Console.csproj", "{47F28D24-134A-447F-957B-2078944550C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2.Calculator", "Homework2.Calculator\Homework2.Calculator.csproj", "{DE4DDFBD-452E-43DD-AB27-7F4643ED5BB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2.UnitTests", "Homework2.UnitTests\Homework2.UnitTests.csproj", "{91EDBCDE-84A2-4F04-B5DD-980EC1F90EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F28D24-134A-447F-957B-2078944550C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F28D24-134A-447F-957B-2078944550C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F28D24-134A-447F-957B-2078944550C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F28D24-134A-447F-957B-2078944550C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4DDFBD-452E-43DD-AB27-7F4643ED5BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4DDFBD-452E-43DD-AB27-7F4643ED5BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4DDFBD-452E-43DD-AB27-7F4643ED5BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4DDFBD-452E-43DD-AB27-7F4643ED5BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EDBCDE-84A2-4F04-B5DD-980EC1F90EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EDBCDE-84A2-4F04-B5DD-980EC1F90EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EDBCDE-84A2-4F04-B5DD-980EC1F90EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EDBCDE-84A2-4F04-B5DD-980EC1F90EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
